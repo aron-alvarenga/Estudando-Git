@@ -81,7 +81,7 @@ Lista não ordenada, ordenada e checkbox
 
 ---
 
-#Diagramas do [mermaid](https://mermaid-js.github.io/mermaid/#/)
+##Diagramas do [mermaid](https://mermaid-js.github.io/mermaid/#/)
 
 ```mermaid
 classDiagram
