@@ -1,6 +1,6 @@
-# Estudando Git
+# :notebook: Estudando Git (+ Markdown) :memo:
 
-Repositório para meus estudos pessoais sobre Git
+Repositório para meus estudos pessoais sobre Git (+ Markdown)
 
 ## Markdown
 
@@ -113,4 +113,45 @@ pie title Meu foco diário
     "Flutter" : 4
     "Dart" : 2
     "Git" : 1
+```
+
+## Mapa com GeoJson 
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.75311279296875,
+              -20.587795414459112
+            ],
+            [
+              -54.52926635742187,
+              -20.587795414459112
+            ],
+            [
+              -54.52926635742187,
+              -20.351064924501273
+            ],
+            [
+              -54.75311279296875,
+              -20.351064924501273
+            ],
+            [
+              -54.75311279296875,
+              -20.587795414459112
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
 ```
